@@ -1,0 +1,2 @@
+# Kingdom-Defense-Game
+You control a King in this top-down game where it's up to the King and his troops to stop an invading army. During the game, different types of enemies will appear from the other side of the screen and the goal of the game is to successfully defend against each invading army (wave). Money is earned at the end of each round and when the player defeats an enemy. Treasure chests and bombs will spawn randomly. Resources are spent on hiring troops.
